@@ -52,6 +52,7 @@ node app.js
 ### 1. Add Mobile (Choice 1)
 
 Allows adding a new mobile record into the inventory after checking that the Mobile ID is unique.
+![Alt Text]choice1.png
 
 ---
 
