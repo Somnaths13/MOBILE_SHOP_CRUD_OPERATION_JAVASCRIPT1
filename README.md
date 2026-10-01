@@ -52,37 +52,42 @@ node app.js
 ### 1. Add Mobile (Choice 1)
 
 Allows adding a new mobile record into the inventory after checking that the Mobile ID is unique.
-![Alt Text]choice1.png
+![image alt](choice1.png)
 
 ---
 
 ### 2. Display All Mobiles (Choice 2)
 
 Displays all currently stored mobile records in a formatted clean table layout.
+![image alt](choice2.png)
 
 ---
 
 ### 3. Search Mobile (Choice 3)
 
 Searches for a mobile entry by ID and displays its complete details if found.
+![image alt](choice3.png)
 
 ---
 
 ### 4. Update Mobile (Choice 4)
 
 Updates existing attributes (Brand, Model, Price, Quantity) for a specific Mobile ID.
+![image alt](choice4.png)
 
 ---
 
 ### 5. Delete Mobile (Choice 5)
 
 Prompts for a Mobile ID and asks for confirmation before removing the item from records.
+![image alt](choice5.png)
 
 ---
 
 ### 6. Exit System (Choice 6)
 
 Terminates the program execution safely.
+![image alt](choice6.png)
 
 ---
 
